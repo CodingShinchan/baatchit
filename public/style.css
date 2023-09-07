@@ -1,0 +1,152 @@
+.logo
+{
+    
+    width: 50px;
+    cursor: pointer;
+
+    
+    
+
+} 
+
+.mainhead
+{
+
+    background-image: url(chat4.jpg);
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 386px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    
+}
+.mainhead:hover
+{
+    opacity: 0.8;
+}
+.baat
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.container1
+{
+    /* background-color: rgb(47, 46, 46); */
+    border: 2px solid black;
+    width: 386px;
+    height: 656px;
+    position: absolute;
+    bottom: 27px;
+    overflow-y: auto;
+}
+.tag1
+{
+    background-image: url(chat4.jpg);
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 360px;
+    height: 70px;
+    margin: 3px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+
+    
+}
+.tag1:hover
+{
+    background-color: rgb(47, 46, 46);
+}
+.imgs
+{
+    width: 30px;
+    border: transparent;
+    border-radius: 15px;
+    margin: 15px;
+    
+}
+
+body
+{
+    /* background-image: url(chat4.jpg);  */
+    opacity: 0.8;
+    
+    
+
+
+        
+}
+.container
+{
+    background-image: url(chat4.jpg);
+    width: 1100px;
+    border: 2px solid black;
+    margin: auto;
+    position: relative;
+    top: 50px;
+    left: 190px;
+    height: 600px;
+    overflow-y: auto;
+    margin-bottom: 25px;
+}
+.message
+{
+    background-color: blanchedalmond;
+    width: 24%;
+    padding: 20px;
+    margin: 10px;
+    border:1px solid black;
+    border-radius: 12px;
+}
+.left
+{
+   float: left;
+   clear: both;
+}
+.right
+{
+    float:right;
+    clear: both;
+    
+}
+#sendcontainer
+{
+    position: absolute;
+    left: 403px;
+    top: 670px;
+    
+}
+#messageinp
+{
+    width: 1050px;
+    height: 40px;
+    border: 2px solid black;
+  
+}
+.btn
+{
+    height: 40px;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.head
+{
+    background-color: black;
+    border: 2px solid black;
+    
+    width: 1100px;
+    height: 40px;
+    position: absolute;
+    left: 403px;
+}
+.logo1
+{
+    width: 70px;
+}
+
+
